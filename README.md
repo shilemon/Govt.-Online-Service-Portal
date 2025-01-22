@@ -7,7 +7,7 @@ Secure Transactions: Implements robust authentication and data encryption.
 Multiple Services Integration: Access various government services from one platform.
 Real-Time Updates: Stay informed with the latest service announcements and updates.
 Responsive Design: Accessible across devices, including desktops, tablets, and mobile phones.
-
+![Image](https://github.com/user-attachments/assets/cf73ee84-bfb3-49d2-bbdd-4738105e9c19)
 
 Services Offered:
 Bill Payments: Easily pay utility bills online.
